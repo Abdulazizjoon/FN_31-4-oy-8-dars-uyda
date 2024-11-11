@@ -91,6 +91,35 @@
 // }
 // firsadd(arr);
 
-
 //2-masala
+// let arr = ["ali", 'vali'];
+// function add(a) {
+//     for (let i = 0; a.length<5; i++) {
+//         a.unshift('salim')
+//         if (a.length>5) {
+//             a.pop()
+//         }
+//     }
+//     return a
+// }
+// let res = add(arr)
+// console.log(res);
+
+//3-masala
+// let arr = [1, 2, 3];
+// function maxElemeentAdd(a) {
+//     let sum=0
+//     for (let i = 0; i < a.length; i++) {
+//         sum+=a[i]
+//     }
+//     a.unshift(sum)
+//     return a
+// }
+// let res = maxElemeentAdd(arr);
+// console.log(res);
+
+
+
+//push
+//1-masala
 
