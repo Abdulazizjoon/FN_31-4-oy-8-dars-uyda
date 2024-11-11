@@ -118,17 +118,51 @@
 // let res = maxElemeentAdd(arr);
 // console.log(res);
 
-
-
 //push
 //1-masala
 // let arr=[1,2]
-// let random = Math.trunc(Math.random() * 10);
 // function maxNumber(a) {
-//     for (let i = 0; a.length<10; i++) {
+//     for (let i = 0; a.length < 10; i++) {
+//         let random = Math.trunc(Math.random() * 10);
 //         a.push(random)
 //     }
 // }
 // let res=maxNumber(arr)
 // console.log(arr);
 
+//3-masala
+// let arr = [1, 2];
+// function maxNumber(a) {
+//   for (let i = 0; a.length < 10; i++) {
+//       let random = Math.trunc(Math.random() * 10);
+//       if (random==arr[i]) {
+//         console.log(false);
+//         continue
+//       }
+//     a.push(random);
+//   }
+// }
+// let res = maxNumber(arr);
+// console.log(arr);
+
+
+//toString
+//1-masala
+// let arr = ["banan", "anor", "anjir"];
+// let str = arr.toString();
+// str = arr.join("*");
+// console.log(str);
+
+//2-masala
+// let arr = ["html", "css", "javascript"];
+// for (let i = 0; i < arr.length; i++) {
+//     let res= if (arr[i] == "javascript") {
+//             console.log('javascript bor');
+//         }
+// }
+// if (res) {
+    
+// } else {
+//     console.log('hato');
+    
+// }
