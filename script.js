@@ -122,4 +122,13 @@
 
 //push
 //1-masala
+// let arr=[1,2]
+// let random = Math.trunc(Math.random() * 10);
+// function maxNumber(a) {
+//     for (let i = 0; a.length<10; i++) {
+//         a.push(random)
+//     }
+// }
+// let res=maxNumber(arr)
+// console.log(arr);
 
